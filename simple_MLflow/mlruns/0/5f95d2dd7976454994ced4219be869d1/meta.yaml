@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_MLflow/mlruns/0/5f95d2dd7976454994ced4219be869d1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f95d2dd7976454994ced4219be869d1
+run_name: respected-rook-418
+run_uuid: 5f95d2dd7976454994ced4219be869d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741797120801
+status: 1
+tags: []
+user_id: saibhargavmandava

@@ -1,0 +1,15 @@
+{"time":"2025-03-12T15:19:56.184311-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_ecercise-3/wandb/run-20250312_151956-hezs30j4/logs/debug-core.log"}
+{"time":"2025-03-12T15:19:56.295713-04:00","level":"INFO","msg":"created new stream","id":"hezs30j4"}
+{"time":"2025-03-12T15:19:56.295759-04:00","level":"INFO","msg":"stream: started","id":"hezs30j4"}
+{"time":"2025-03-12T15:19:56.295767-04:00","level":"INFO","msg":"handler: started","stream_id":"hezs30j4"}
+{"time":"2025-03-12T15:19:56.295908-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"hezs30j4"}
+{"time":"2025-03-12T15:19:56.296054-04:00","level":"INFO","msg":"sender: started","stream_id":"hezs30j4"}
+{"time":"2025-03-12T15:19:56.559066-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-12T15:19:56.928213-04:00","level":"INFO","msg":"stream: closing","id":"hezs30j4"}
+{"time":"2025-03-12T15:19:56.928246-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-12T15:19:56.928597-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-12T15:19:57.357625-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-12T15:19:57.559518-04:00","level":"INFO","msg":"sender: closed","stream_id":"hezs30j4"}
+{"time":"2025-03-12T15:19:57.559508-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hezs30j4"}
+{"time":"2025-03-12T15:19:57.559549-04:00","level":"INFO","msg":"handler: closed","stream_id":"hezs30j4"}
+{"time":"2025-03-12T15:19:57.559878-04:00","level":"INFO","msg":"stream: closed","id":"hezs30j4"}

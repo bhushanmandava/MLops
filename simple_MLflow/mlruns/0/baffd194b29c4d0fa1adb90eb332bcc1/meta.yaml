@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_MLflow/mlruns/0/baffd194b29c4d0fa1adb90eb332bcc1/artifacts
+end_time: 1741797874165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baffd194b29c4d0fa1adb90eb332bcc1
+run_name: polite-dolphin-995
+run_uuid: baffd194b29c4d0fa1adb90eb332bcc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741797873243
+status: 4
+tags: []
+user_id: saibhargavmandava

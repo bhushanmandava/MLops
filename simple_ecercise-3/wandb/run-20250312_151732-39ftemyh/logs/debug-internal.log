@@ -1,0 +1,15 @@
+{"time":"2025-03-12T15:17:32.509944-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_ecercise-3/wandb/run-20250312_151732-39ftemyh/logs/debug-core.log"}
+{"time":"2025-03-12T15:17:32.618253-04:00","level":"INFO","msg":"created new stream","id":"39ftemyh"}
+{"time":"2025-03-12T15:17:32.618295-04:00","level":"INFO","msg":"stream: started","id":"39ftemyh"}
+{"time":"2025-03-12T15:17:32.618427-04:00","level":"INFO","msg":"handler: started","stream_id":"39ftemyh"}
+{"time":"2025-03-12T15:17:32.618497-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"39ftemyh"}
+{"time":"2025-03-12T15:17:32.618607-04:00","level":"INFO","msg":"sender: started","stream_id":"39ftemyh"}
+{"time":"2025-03-12T15:17:32.849896-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-12T15:17:33.179762-04:00","level":"INFO","msg":"stream: closing","id":"39ftemyh"}
+{"time":"2025-03-12T15:17:33.179983-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-12T15:17:33.180415-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-12T15:17:33.57197-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-12T15:17:33.828114-04:00","level":"INFO","msg":"sender: closed","stream_id":"39ftemyh"}
+{"time":"2025-03-12T15:17:33.828094-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"39ftemyh"}
+{"time":"2025-03-12T15:17:33.828131-04:00","level":"INFO","msg":"handler: closed","stream_id":"39ftemyh"}
+{"time":"2025-03-12T15:17:33.828447-04:00","level":"INFO","msg":"stream: closed","id":"39ftemyh"}

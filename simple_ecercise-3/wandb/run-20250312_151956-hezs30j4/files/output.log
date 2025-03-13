@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_ecercise-3/code.py", line 22, in <module>
+    artifact_original.add(wandb.Table(data=X_original, columns=iris.feature_names))
+  File "/Users/saibhargavmandava/.local/share/virtualenvs/simple_exercise-1-7SW-5bKX/lib/python3.9/site-packages/wandb/sdk/artifacts/_validators.py", line 115, in wrapper
+    return method(self, *args, **kwargs)
+TypeError: add() missing 1 required positional argument: 'name'

@@ -1,0 +1,16 @@
+{"time":"2025-03-12T15:20:31.137648-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_ecercise-3/wandb/run-20250312_152031-8hweppyn/logs/debug-core.log"}
+{"time":"2025-03-12T15:20:31.245535-04:00","level":"INFO","msg":"created new stream","id":"8hweppyn"}
+{"time":"2025-03-12T15:20:31.245708-04:00","level":"INFO","msg":"stream: started","id":"8hweppyn"}
+{"time":"2025-03-12T15:20:31.245858-04:00","level":"INFO","msg":"handler: started","stream_id":"8hweppyn"}
+{"time":"2025-03-12T15:20:31.24597-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"8hweppyn"}
+{"time":"2025-03-12T15:20:31.246099-04:00","level":"INFO","msg":"sender: started","stream_id":"8hweppyn"}
+{"time":"2025-03-12T15:20:31.458364-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-12T15:20:33.013419-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-12T15:20:33.013911-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-12T15:20:34.022973-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact feature_engineered_model","runtime_seconds":1.010963625}],"total_operations":1}}
+{"time":"2025-03-12T15:20:34.307252-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-12T15:20:34.586293-04:00","level":"INFO","msg":"stream: closing","id":"8hweppyn"}
+{"time":"2025-03-12T15:20:34.586326-04:00","level":"INFO","msg":"handler: closed","stream_id":"8hweppyn"}
+{"time":"2025-03-12T15:20:34.586336-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8hweppyn"}
+{"time":"2025-03-12T15:20:34.586343-04:00","level":"INFO","msg":"sender: closed","stream_id":"8hweppyn"}
+{"time":"2025-03-12T15:20:34.586474-04:00","level":"INFO","msg":"stream: closed","id":"8hweppyn"}

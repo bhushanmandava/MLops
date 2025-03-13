@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_MLflow/mlruns/0/a154c6f106d6409584a93c4085133e68/artifacts
+end_time: 1741797287070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a154c6f106d6409584a93c4085133e68
+run_name: unique-yak-158
+run_uuid: a154c6f106d6409584a93c4085133e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741797276353
+status: 4
+tags: []
+user_id: saibhargavmandava

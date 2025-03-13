@@ -1,0 +1,16 @@
+{
+  "os": "macOS-15.3.1-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.2",
+  "startedAt": "2025-03-12T16:58:50.111440Z",
+  "program": "/Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_exercise-1/intro.py",
+  "codePath": "simple_exercise-1/intro.py",
+  "git": {
+    "remote": "https://github.com/bhushanmandava/MLops.git",
+    "commit": "27269da4c5ba58f1aa57a41670a66e5e98783f17"
+  },
+  "email": "bhushanmandava16@gmail.com",
+  "root": "/Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_exercise-1",
+  "host": "Sais-Mac-mini.local",
+  "executable": "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3",
+  "codePathLocal": "intro.py"
+}

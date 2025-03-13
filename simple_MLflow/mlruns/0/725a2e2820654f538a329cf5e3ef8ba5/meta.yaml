@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saibhargavmandava/Documents/bhushanGit/MLops/simple_MLflow/mlruns/0/725a2e2820654f538a329cf5e3ef8ba5/artifacts
+end_time: 1741797295171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 725a2e2820654f538a329cf5e3ef8ba5
+run_name: rogue-gnu-743
+run_uuid: 725a2e2820654f538a329cf5e3ef8ba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741797288317
+status: 4
+tags: []
+user_id: saibhargavmandava

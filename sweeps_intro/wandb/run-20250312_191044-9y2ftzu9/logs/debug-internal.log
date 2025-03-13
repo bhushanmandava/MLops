@@ -1,0 +1,16 @@
+{"time":"2025-03-12T19:10:44.893361-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/saibhargavmandava/Documents/bhushanGit/MLops/sweeps_intro/wandb/run-20250312_191044-9y2ftzu9/logs/debug-core.log"}
+{"time":"2025-03-12T19:10:45.005408-04:00","level":"INFO","msg":"created new stream","id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:45.005454-04:00","level":"INFO","msg":"stream: started","id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:45.005467-04:00","level":"INFO","msg":"handler: started","stream_id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:45.005471-04:00","level":"INFO","msg":"sender: started","stream_id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:45.005509-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:45.213045-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-12T19:10:45.325539-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-12T19:10:45.326003-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-12T19:10:46.024628-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-12T19:10:46.244371-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-12T19:10:46.247868-04:00","level":"INFO","msg":"stream: closing","id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:46.247908-04:00","level":"INFO","msg":"handler: closed","stream_id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:46.24793-04:00","level":"INFO","msg":"sender: closed","stream_id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:46.247924-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"9y2ftzu9"}
+{"time":"2025-03-12T19:10:46.248087-04:00","level":"INFO","msg":"stream: closed","id":"9y2ftzu9"}
